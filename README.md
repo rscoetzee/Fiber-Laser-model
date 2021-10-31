@@ -10,4 +10,5 @@ The script MainProg.py is the main program which calls the RK4 routine and other
 
 ![abs spec2](https://user-images.githubusercontent.com/93448334/139584712-50debaf4-b488-48a3-836e-123efaa24e7d.png)
 
-![amp model](https://user-images.githubusercontent.com/93448334/139585048-1bd50dd5-30cc-4bdd-b9e3-2d6f701f70b6.png)
+![amp model3](https://user-images.githubusercontent.com/93448334/139585502-42d80781-74d2-40fa-94a2-c49e8ff7d363.png)
+
